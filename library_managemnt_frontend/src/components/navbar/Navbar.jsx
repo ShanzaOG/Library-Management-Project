@@ -28,15 +28,15 @@ const navigationLinks = [
 const socialMedia = [
   {
     icon: BsGithub,
-    link: 'https://github.com/leehaney254',
+    link: 'https://github.com/franklinetush1',
   },
   {
     icon: BsTwitter,
-    link: 'https://twitter.com/Lee06785586',
+    link: 'https://twitter.com/',
   },
   {
     icon: BsLinkedin,
-    link: 'https://www.linkedin.com/in/leehaney-george/',
+    link: 'www.linkedin.com/in/frankline-mburugu',
   },
 ]
 
