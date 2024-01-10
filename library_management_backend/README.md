@@ -124,14 +124,6 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="authors"></a>
-
-👤 **Leehaney George**
-
-- GitHub: [@githubhandle](https://github.com/leehaney254)
-- Twitter: [@twitterhandle](https://twitter.com/Lee06785586)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leehaney-george-0a4a51178/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -160,13 +152,3 @@ Feel free to check the [issues page](../../issues/).
 If you like this project kindly leave a ⭐
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
