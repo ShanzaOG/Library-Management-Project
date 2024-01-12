@@ -51,21 +51,6 @@
 
 The apps documentation can be found [here.](https://documenter.getpostman.com/view/21501737/2s93zFXeQT)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Front end <a name="Front end"></a>
-
-The apps front-end can be found [here.](https://github.com/leehaney254/library_managemnt_frontend)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### ERD Diagram <a name="ERD Diagram"></a>
-
-<img width="490" alt="libraryerd" src="https://github.com/leehaney254/library_management_backend/assets/65546920/b107b752-59a3-491f-b1b2-04ffd91c6c5d">
-
-The ERD diagram can be found [here.](https://drawsql.app/teams/leehaneys-team/diagrams/library-management)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
