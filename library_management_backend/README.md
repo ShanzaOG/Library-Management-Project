@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `git clone https://github.com/leehaney254/library_management_backend.git`
+  - `https://github.com/franklinetush1/Library-Management-Project/tree/main/library_management_backend`
 
 ### Usage
 
