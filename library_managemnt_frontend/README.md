@@ -18,7 +18,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Libarary Management Frontend <a name="about-project"></a>
+# 📖 Library Management Frontend <a name="about-project"></a>
 
 
 **[Libarary Management Frontend]** is an application that one can manage the books, members and reservations. It provides a good and simple UI for users to interact with.
