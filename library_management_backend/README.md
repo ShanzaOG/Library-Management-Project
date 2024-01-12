@@ -69,7 +69,7 @@ To get a local copy up and running, follow these steps:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `git clone https://github.com/leehaney254/library_management_backend.git`
+  - `git clone https://github.com/franklinetush1/Library-Management-Project/tree/main/library_management_backend`
 - Create a postgress database
 - run `pip install pipenv` if you do not have it installed globally.
 - run `pipenv shell` to activate the virtual environment
@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/franklinetush1/Library-Management-Project/tree/main/library_management_backend`
+  - `git clone https://github.com/franklinetush1/Library-Management-Project/tree/main/library_management_backend`
 
 ### Usage
 
