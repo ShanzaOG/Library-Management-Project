@@ -10,7 +10,7 @@ url = os.getenv("DATABASE_URL")
 
 # Create an insance of flask
 app = Flask(__name__)
-app.config["SQLALCHEMY_DATABASE_URI"] = url
+app.config["SQLALCHEMY_DATABASE_URI"] = 'postgresql://kBWJrUi2G2:9WWS@kBWJrUi2G2@localhost:5432/postgres'
 db = SQLAlchemy(app)
 CORS(app)
 
