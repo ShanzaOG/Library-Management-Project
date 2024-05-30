@@ -162,13 +162,6 @@ NB: To run the tests successfully make sure you have connected the front-end to 
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
-
-👤 **Leehaney George**
-
-- GitHub: [@githubhandle](https://github.com/leehaney254)
-- Twitter: [@twitterhandle](https://twitter.com/Lee06785586)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leehaney-george-0a4a51178/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
