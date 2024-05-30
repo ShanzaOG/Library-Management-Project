@@ -85,7 +85,7 @@ This project was build using React and Redux
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Back-end <a name="Front end"></a>
-The apps back-end can be found [here.](https://github.com/leehaney254/library_management_backend.git)
+The apps back-end can be found [here.](https://github.com/ShanzaOG/Library-Management-Project.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +110,7 @@ To get a local copy up and running, follow these steps.
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
 ```sh
-git clone https://github.com/leehaney254/library_managemnt_frontend.git
+git clone https://github.com/ShanzaOG/Library-Management-Project.git
 ```
 - Run 
 ```sh 
@@ -139,7 +139,7 @@ Clone this repository to your desired folder:
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
 ```sh
-  git clone https://github.com/leehaney254/library_managemnt_frontend.git
+  git clone https://github.com/ShanzaOG/Library-Management-Project.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
